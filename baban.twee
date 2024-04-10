@@ -1,0 +1,87 @@
+:: StoryTitle
+baban
+
+
+:: StoryData
+{
+  "ifid": "F8C09267-ADDB-477F-8AE5-0E5A63A3A667",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: \ vypnout\  {"position":"1050,300","size":"100,100"}
+ok ( :
+
+
+:: Untitled Passage {"position":"550,175","size":"100,100"}
+[[nastavení]]
+[[místnost č.2  ]]
+[[místnost č.3  ]]
+[[místnost č. 4 ]]
+[[místnost č. 5 ]]
+[[místnost č. 6 ]]
+
+
+
+:: credity {"position":"900,175","size":"100,100"}
+                                                                       VYMYSLELI
+                                                          
+                                                                           GG
+                                                                           
+                                                                            Bára
+                                                                            
+                                                                            Lela
+                                                                        
+                                                               NAPROGRAMOVALI
+                                                                 
+                                                                            Vojta
+                                                                            
+                                                                            Vašek
+                                                                            
+                                                                            Adam
+                                                                            
+                                                                            Lukáš
+                                                                      
+
+
+:: free 300 000kč\  {"position":"1075,0","size":"100,100"}
+byl jsi vyprenkován muhahahaha
+
+
+:: místnost č. 4\  {"position":"525,400","size":"100,100"}
+
+
+
+:: místnost č. 5\  {"position":"800,325","size":"100,100"}
+
+
+
+:: místnost č. 6\  {"position":"300,325","size":"100,100"}
+
+
+
+:: místnost č.2\ \  {"position":"575,25","size":"100,100"}
+
+
+
+:: místnost č.3\ \  {"position":"175,125","size":"100,100"}
+
+
+
+:: nastavení {"position":"725,25","size":"100,100"}
+[[zvuk]]
+[[free 300 000kč ]]
+[[credity]]
+
+
+:: zapnout {"position":"1225,250","size":"100,100"}
+ok ( :
+
+
+:: zvuk {"position":"1125,125","size":"100,100"}
+[[ vypnout ]]
+[[zapnout]]
+
