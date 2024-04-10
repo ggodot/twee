@@ -12,24 +12,87 @@ baban
 }
 
 
-:: \ vypnout\  {"position":"1050,300","size":"100,100"}
+:: \ vypnout\  {"position":"1000,275","size":"100,100"}
 ok ( :
 
 
-:: Untitled Passage {"position":"550,175","size":"100,100"}
+:: -> {"position":"500,275","size":"100,100"}
+
+
+
+:: <- {"position":"625,275","size":"100,100"}
+
+
+
+:: A-2 {"position":"350,100","size":"100,100"}
+[[A-4]]
+[[c-10]]
+[[c-11]]
+[[c-12]]
+
+
+:: A-3 {"position":"325,250","size":"100,100"}
+[[b-4]]
+[[b-5]]
+[[b-6]]
+[[b-7]]
+[[b-8]]
+[[b-9]]
+
+
+:: A-4 {"position":"350,475","size":"100,100"}
+
+
+
+:: Untitled Passage {"position":"500,150","size":"100,100"}
+NEVIM
 [[nastavení]]
-[[místnost č.2  ]]
-[[místnost č.3  ]]
-[[místnost č. 4 ]]
-[[místnost č. 5 ]]
-[[místnost č. 6 ]]
+[[start hry]]
+[[->]]
+[[<-]]
 
 
 
-:: credity {"position":"900,175","size":"100,100"}
-                                                                       VYMYSLELI
+:: b-4 {"position":"200,625","size":"100,100"}
+
+
+
+:: b-5 {"position":"325,750","size":"100,100"}
+
+
+
+:: b-6 {"position":"450,750","size":"100,100"}
+
+
+
+:: b-7 {"position":"200,750","size":"100,100"}
+
+
+
+:: b-8 {"position":"325,875","size":"100,100"}
+
+
+
+:: b-9 {"position":"450,875","size":"100,100"}
+
+
+
+:: c-10 {"position":"475,475","size":"100,100"}
+
+
+
+:: c-11 {"position":"225,475","size":"100,100"}
+
+
+
+:: c-12 {"position":"350,600","size":"100,100"}
+
+
+
+:: credity {"position":"850,150","size":"100,100"}
+VYMYSLELI
                                                           
-                                                                            GG
+                                                                           GG
                                                                            
                                                                             Bára
                                                                             
@@ -44,44 +107,35 @@ ok ( :
                                                                             Adam
                                                                             
                                                                             Lukáš
-                                                                      
 
 
-:: free 300 000kč\  {"position":"1075,0","size":"100,100"}
+:: free 300 000kč\  {"position":"1025,0","size":"100,100"}
 byl jsi vyprenkován muhahahaha
 
 
-:: místnost č. 4\  {"position":"525,400","size":"100,100"}
-
-
-
-:: místnost č. 5\  {"position":"800,325","size":"100,100"}
-
-
-
-:: místnost č. 6\  {"position":"300,325","size":"100,100"}
-
-
-
-:: místnost č.2\ \  {"position":"575,25","size":"100,100"}
-
-
-
-:: místnost č.3\ \  {"position":"175,125","size":"100,100"}
-
-
-
-:: nastavení {"position":"725,25","size":"100,100"}
+:: nastavení {"position":"675,0","size":"100,100"}
 [[zvuk]]
 [[free 300 000kč ]]
 [[credity]]
 
 
-:: zapnout {"position":"1225,250","size":"100,100"}
+:: start hry {"position":"525,0","size":"100,100"}
+[[A-2]]
+[[A-3]]
+
+
+
+:: zapnout {"position":"1175,225","size":"100,100"}
 ok ( :
 
 
-:: zvuk {"position":"1125,125","size":"100,100"}
+:: zvuk {"position":"1075,100","size":"100,100"}
 [[ vypnout ]]
 [[zapnout]]
 
+
+:: StoryStylesheet [stylesheet]
+tw-link {
+    color: #500000;
+  top: 40%;
+}
